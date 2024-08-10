@@ -1,5 +1,5 @@
 # TP1 Datascience
-Don't remember to unzip full-oldb-20220110.zip
+Don't forget to unzip full-oldb-20220110.zip
 Bash
 ```
 git clone <URL_de_votre_dépôt>
